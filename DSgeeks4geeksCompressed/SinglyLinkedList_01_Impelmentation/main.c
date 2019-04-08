@@ -3,7 +3,7 @@ Implementation of singly linked list
 */
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 struct Node {
 	int data;
