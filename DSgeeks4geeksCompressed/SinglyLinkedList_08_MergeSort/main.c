@@ -136,4 +136,6 @@ int main(void) {
 
 	res2 = mergeSorting(c);
 	printList(res2);
+
+	return 0;
 }
